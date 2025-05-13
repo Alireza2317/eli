@@ -4,9 +4,6 @@ B = 13
 # least common multiple ک م م
 # greatest common divisor ب م م
 
-
-# greatest common divisor
-#1
 A_divisors = []
 B_divisors = []
 
@@ -23,25 +20,6 @@ B_divisors = set(B_divisors)
 
 common = A_divisors.intersection(B_divisors)
 gcd = max(common)
-
-
-
-# greatest common divisor
-#2
-#smaller = A if A < B else B
-
-if A < B:
-	smaller = A
-else:
-	smaller = B
-
-gcd = smaller
-while True:
-	if (A%gcd == 0) and (B%gcd == 0):
-		break
-	gcd -= 1
-
-
 lcm = A*B // gcd
 
 print(gcd)
