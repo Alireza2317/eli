@@ -3,4 +3,4 @@
 # .count, .index
 # indexing and slicing
 
-# functions returning tuples	
+# functions returning tuples

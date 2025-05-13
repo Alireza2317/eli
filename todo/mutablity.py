@@ -13,3 +13,7 @@
 
 #def function():
 #	x = 9
+
+# id
+# copy
+# [:]
