@@ -23,3 +23,12 @@ falsies = [
 # bool
 for f in falsies:
 	print(bool(f))
+
+
+def is_prime(num):
+	return False
+
+
+if not is_prime(24):
+	print('not prime')
+

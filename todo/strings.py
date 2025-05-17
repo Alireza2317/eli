@@ -2,4 +2,7 @@
 # in
 # not in
 # string module
+# strip
+# f''
+
 
