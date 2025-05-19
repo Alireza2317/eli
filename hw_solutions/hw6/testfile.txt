@@ -1,0 +1,6 @@
+usage of argv for additive request
+arguments vector: contains  the arguments passed to
+the program. The rst one is  always the program name.
+into the sys module
+from sys import argv
+means unknown character in   this speci c position?
