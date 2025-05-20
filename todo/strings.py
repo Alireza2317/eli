@@ -53,8 +53,3 @@ s = 'sum is = ' + str(x)
 print(s)
 #sum is =6.567
 
-
-
-
-
-
