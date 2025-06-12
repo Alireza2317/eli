@@ -31,6 +31,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #def collatz(n):
 #	while True:
 #		if n == 1:
